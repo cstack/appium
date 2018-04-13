@@ -1693,8 +1693,8 @@
     },
     "appium-xcuitest-driver": {
       "version": "2.64.0",
-      "resolved": "https://registry.npmjs.org/appium-xcuitest-driver/-/appium-xcuitest-driver-2.64.0.tgz",
-      "integrity": "sha1-pH+0BFZf7wLV4mIdQw6jOeL7ZNM=",
+      "from": "git+https://github.com/cstack/appium-xcuitest-driver.git#v2.64.0-patched",
+      "resolved": "git+https://github.com/cstack/appium-xcuitest-driver.git#87fa13498913740398c936854228cbfd7393b34c",
       "requires": {
         "appium-base-driver": "2.19.0",
         "appium-ios-driver": "1.29.0",
